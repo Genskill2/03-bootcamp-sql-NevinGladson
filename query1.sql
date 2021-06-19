@@ -1,3 +1,3 @@
 select b.title 
-from book b
+from books b
 where b.publisher = 1;
